@@ -34,6 +34,7 @@ Solutions are represented in [homework](./homework/) folder:
 
 1. Part 1: 
     Part 1.1: [SQL](./homework/p1_1_sql_request.sql) | [MySQL Workbench screenshot](./homework/p1_1_screenshot_request_and_result.jpg).
+    
     Part 1.2: [SQL](./homework/p1_2_sql_request.sql) | [MySQL Workbench screenshot](./homework/p1_2_screenshot_request_and_result.jpg).
 2. Part 2: [SQL](./homework/p2_sql_request.sql) | [MySQL Workbench screenshot](./homework/p2_screenshot_request_and_result.jpg).
 3. Part 3: [SQL](./homework/p3_sql_request.sql) | [MySQL Workbench screenshot](./homework/p3_screenshot_request_and_result.jpg).
