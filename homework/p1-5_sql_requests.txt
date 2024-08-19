@@ -23,7 +23,7 @@ LIMIT 10;
 # p4_sql_request:
 SELECT COUNT(*) AS products_price_20_100_count
 FROM products
-WHERE price >= 20 AND price <= 100;
+WHERE price BETWEEN 20 AND 100;
 
 # p5_sql_request:
 SELECT
